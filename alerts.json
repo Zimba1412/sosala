@@ -1,0 +1,22 @@
+{
+  "BTC": {
+    "last_price": 84456,
+    "updated_at": "2025-04-13 22:30",
+    "step": 5000
+  },
+  "ETH": {
+    "last_price": 1621.45,
+    "updated_at": "2025-04-13 22:30",
+    "step": 100
+  },
+  "SOL": {
+    "last_price": 130.44,
+    "updated_at": "2025-04-13 22:30",
+    "step": 10
+  },
+  "TON": {
+    "last_price": 2.9,
+    "updated_at": "2025-04-13 22:30",
+    "step": 1
+  }
+}
